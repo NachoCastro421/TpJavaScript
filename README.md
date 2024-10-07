@@ -8,4 +8,4 @@ Instalación:
 
 Para comenzar con este proyecto, primero necesitas clonar el repositorio y luego instalar las dependencias de Vite:
 
-git clone () cd <NOMBRE_DEL_REPOSITORIO> npm install
+git clone (https://github.com/NachoCastro421/TpJavaScript) cd <NOMBRE_DEL_REPOSITORIO> npm install
